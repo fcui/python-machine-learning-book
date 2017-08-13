@@ -1,6 +1,4 @@
-# python-machine-learning-book
-
-#### Python Machine Learning* code repository.
+# Python Machine Learning book code repository
 
 
 [![Google Group](https://img.shields.io/badge/-Google%20Group-lightgrey.svg)](https://groups.google.com/forum/#!forum/python-machine-learning-reader-discussion-board)
@@ -15,21 +13,27 @@ You are not sure if this book is for you? Please checkout the excerpts from the 
 
 [![](./images/pymle_cover_double_small.jpg)](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka/dp/1783555130/ref=sr_1_1?ie=UTF8&qid=1470882464&sr=8-1&keywords=python+machine+learning)
 
-<div style='font-size:0.6em;'>
-<sup>1st edition, published September 23rd 2015<br>
+1st edition, published September 23rd 2015<br>
 Paperback: 454 pages<br>
 Publisher: Packt Publishing<br>  
 Language: English<br>
 ISBN-10: 1783555130<br>  
 ISBN-13: 978-1783555130<br>
 Kindle ASIN: B00YSILNL0<br>
+
 <br>
+
+[![](./images/CRBadgeNotableBook.jpg)](http://www.computingreviews.com/recommend/bestof/notableitems.cfm?bestYear=2016)
+
+<br>
+
 German ISBN-13: 978-3958454224<br>
 Japanese ISBN-13: 978-4844380603<br>
 Italian ISBN-13: 978-8850333974<br>
 Chinese ISBN-13: 978-9864341405<br>
 Korean ISBN-13: 979-1187497035<br>
-</div>
+Russian ISBN-13: 978-5970604090<br>
+
 
 
 ## Table of Contents and Code Notebooks
@@ -60,10 +64,20 @@ Simply click on the `ipynb`/`nbviewer` links next to the chapter headlines to vi
 
 <br>
 
+#### Equation Reference
 
 <a href="https://github.com/rasbt/python-machine-learning-book/tree/master/docs/equations"><img src="images/equation-ref-logo.png" width="200" height="200" /></a>
 
-- Equation Reference [[PDF](./docs/equations/pymle-equations.pdf)] [[TEX](./docs/equations/pymle-equations.tex)]
+[[PDF](./docs/equations/pymle-equations.pdf)] [[TEX](./docs/equations/pymle-equations.tex)]
+
+#### Slides for Teaching
+
+A big thanks to [Dmitriy Dligach](dmitriydligach) for sharing his slides from his machine learning course that is currently offered at [Loyola University Chicago](http://www.luc.edu/cs/). 
+
+- [https://github.com/dmitriydligach/PyMLSlides](https://github.com/dmitriydligach/PyMLSlides)
+- 
+
+
 
 #### Additional Math and NumPy Resources
 
@@ -215,6 +229,7 @@ I have set up a separate library, [`mlxtend`](http://rasbt.github.io/mlxtend/), 
 [![](./images/pymle-cover_jp.jpg)](http://www.amazon.co.jp/gp/product/4844380605/)
 [![](./images/pymle-cover_cn.jpg)](https://taiwan.kinokuniya.com/bw/9789864341405)
 [![](./images/pymle-cover_kr.jpg)](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791187497035&orderClick=LEA&Kc=)
+[![](./images/pymle-cover_ru.jpg)](http://www.ozon.ru/context/detail/id/140152222/)
 
 <hr>
 
